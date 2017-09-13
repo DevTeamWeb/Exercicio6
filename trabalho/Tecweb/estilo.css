@@ -1,0 +1,18 @@
+body{
+	background: #00FF7F
+}
+p.formato{
+	font-size: 25;
+	font-family: arial;
+}
+
+h1,h2{	
+	font-family:Arial;
+	color:Blue;
+	
+}
+h3,h4,h5{
+	color: green;
+}
+// comentario em uma unica linha no css
+/* comentarios em blocos /*
